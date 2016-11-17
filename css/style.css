@@ -8,6 +8,7 @@ html
 }
 
 .button1 {
+	position: absolute;
     background-color: #F3EFE0;
     border: 2px solid #000000;
 	border-radius: 12px;
@@ -26,6 +27,7 @@ html
 }
 
 .button2 {
+	position: absolute;
     background-color: #F3EFE0;
     border: 2px solid #000000;
 	border-radius: 12px;
@@ -44,6 +46,7 @@ html
 }
 
 .button3 {
+	position: absolute;
     background-color: #F3EFE0;
     border: 2px solid #000000;
 	border-radius: 12px;
