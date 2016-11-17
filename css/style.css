@@ -86,3 +86,12 @@ html
 	border: 1px solid #000000;
 }
 
+.calendar2
+{
+	position: absolute;
+	top: 585px;
+	left: 300px;
+	border: 1px solid #000000;
+}
+
+
