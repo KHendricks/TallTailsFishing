@@ -60,6 +60,19 @@ html
     background-color: #7FA0FF;
     color: black;
 }
+
+.TextArea1
+{
+	position: fixed;
+	top: 250px;
+	left: 495px;
+	opacity: .8;
+	background: #5AB0FC;
+	border: 2px solid #000000;
+	border-radius: 12px;
+	font-size: 18px;
+	font-family: "Open Sans"
+}
 .logo
 {
 	position: absolute;
