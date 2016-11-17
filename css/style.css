@@ -1,0 +1,15 @@
+.logo
+{
+	position: absolute;
+	top: 20px;
+}
+
+.image1
+{
+	position: absolute;
+	width: 300px;
+	height: 300px;
+	top: 250px;
+	left: 100px;
+	border: 2px solid #021a40;
+}
