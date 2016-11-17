@@ -1,6 +1,6 @@
 html
 {
-	background: url('../../images/background.png') no-repeat center center fixed;
+	background: url('../images/background.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -9,12 +9,12 @@ html
 
 .button1 {
 	position: absolute;
-    background-color: #F3EFE0;
-    border: 2px solid #000000;
+	background-color: #F3EFE0;
+	border: 2px solid #000000;
 	border-radius: 12px;
-    position:absolute;
-    top: 8%;
-    left: 43%;
+	position:absolute;
+	top: 8%;
+	left: 43%;
 	width: 150px;
 	height: 80px;
 	font-size: 30px;
@@ -22,18 +22,19 @@ html
 }
 
 .button1:hover {
-    background-color: #7FA0FF;
-    color: black;
+	position: absolute;
+	background-color: #7FA0FF;
+	color: black;
 }
 
 .button2 {
 	position: absolute;
-    background-color: #F3EFE0;
-    border: 2px solid #000000;
+	background-color: #F3EFE0;
+	border: 2px solid #000000;
 	border-radius: 12px;
-    position:absolute;
-    top: 8%;
-    left: 58%;
+	position:absolute;
+	top: 8%;
+	left: 58%;
 	width: 150px;
 	height: 80px;
 	font-size: 30px;
@@ -41,18 +42,19 @@ html
 }
 
 .button2:hover {
-    background-color: #7FA0FF;
-    color: black;
+	position: absolute;
+	background-color: #7FA0FF;
+	color: black;
 }
 
 .button3 {
 	position: absolute;
-    background-color: #F3EFE0;
-    border: 2px solid #000000;
+	background-color: #F3EFE0;
+	border: 2px solid #000000;
 	border-radius: 12px;
-    position:absolute;
-    top: 8%;
-    left: 73%;
+	position:absolute;
+	top: 8%;
+	left: 73%;
 	width: 150px;
 	height: 80px;
 	font-size: 30px;
@@ -60,8 +62,9 @@ html
 }
 
 .button3:hover {
-    background-color: #7FA0FF;
-    color: black;
+ 	position: absolute;
+	background-color: #7FA0FF;
+	color: black;
 }
 .logo
 {
