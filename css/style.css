@@ -1,6 +1,6 @@
 html
 {
-	background: url('../images/background3.png') center center fixed;
+	background: url('../images/background3.png');
 	-webkit-background-size: 100%; 
 	-moz-background-size: 100%; 
 	-o-background-size: 100%; 
