@@ -136,10 +136,11 @@ html
 
 .textbox
 {
+	position: absolute;
 	border-radius: 12px;
 	background-color: rgba(5,4,2,0.2);
 	width:850px;
-	height: 100%;
+	height: 300px;
 	margin-top: 500px;
 	margin-left: 230px;
 	padding: 15px;
