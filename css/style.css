@@ -1,14 +1,6 @@
-html
+.html
 {
-	background: url('../images/background3.png');
-	-webkit-background-size: 100%; 
-	-moz-background-size: 100%; 
-	-o-background-size: 100%; 
-	background-size: 100%; 
-	-webkit-background-size: cover; 
-	-moz-background-size: cover; 
-	-o-background-size: cover; 
-	background-size: cover;
+	background: #FFFFFF url("../../images/background3.png") repeat left top scroll;
 }
 
 .button1 
