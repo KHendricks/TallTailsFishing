@@ -1,6 +1,6 @@
 html
 {
-	background: #FFFFFF url("../../images/background.png") no-repeat top left fixed;
+	background: #FFFFFF url("../../images/background.png") no-repeat top left scroll;
 }
 
 .button1 
