@@ -1,6 +1,6 @@
 html
 {
-	background: url('../../images/background3.png') no-repeat center center fixed;
+	background: url('../images/background3.png') no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -8,100 +8,178 @@ html
 	background-repeat: no-repeat;
 }
 
-.button1 {
+.button1 
+{
 	position:absolute;
 	background-color: #F3EFE0;
 	border: 2px solid #000000;
 	border-radius: 12px;
-	top: 50px;
-	left: 565px;
-	width: 135px;
-	height: 80px;
-	font-size: 25px;
-	font-family: "Open Sans"
+	top: 365px;
+	left: 245px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
 }
 
-.button1:hover {
+.button1:hover 
+{
 	background-color: #7FA0FF;
 	color: black;
 }
 
-.button2 {
-	position: absolute;
+.button2 
+{
+	position:absolute;
 	background-color: #F3EFE0;
 	border: 2px solid #000000;
 	border-radius: 12px;
-	top: 50px;
-	left: 715px;
-	width: 135px;
-	height: 80px;
-	font-size: 25px;
-	font-family: "Open Sans"
+	top: 365px;
+	left: 395px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
 }
 
-.button2:hover {
+.button2:hover
+{
     background-color: #7FA0FF;
     color: black;
 }
 
-.button3 {
-	position: absolute;
+.button3 
+{
+	position:absolute;
 	background-color: #F3EFE0;
 	border: 2px solid #000000;
 	border-radius: 12px;
-	top: 50px;
-	left: 865px;
-	width: 135px;
-	height: 80px;
-	font-size: 25px;
-	font-family: "Open Sans"
+	top: 365px;
+	left: 545px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
 }
 
-.button3:hover {
+.button3:hover 
+{
     background-color: #7FA0FF;
     color: black;
 }
 
-.button4 {
-	position: absolute;
+.button4 
+{
+	position:absolute;
 	background-color: #F3EFE0;
 	border: 2px solid #000000;
 	border-radius: 12px;
-	top: 50px;
-	left: 1015px;
-	width: 135px;
-	height: 80px;
-	font-size: 25px;
-	font-family: "Open Sans"
+	top: 365px;
+	left: 695px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
 }
 
-.button4:hover {
+.button4:hover 
+{
     background-color: #7FA0FF;
     color: black;
+}
+
+.button5
+{
+	position:absolute;
+	background-color: #F3EFE0;
+	border: 2px solid #000000;
+	border-radius: 12px;
+	top: 365px;
+	left: 845px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
+}
+
+.button5:hover 
+{
+    background-color: #7FA0FF;
+    color: black;
+}
+
+.button6 
+{
+	position:absolute;
+	background-color: #F3EFE0;
+	border: 2px solid #000000;
+	border-radius: 12px;
+	top: 365px;
+	left: 995px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
+}
+
+.button6:hover 
+{
+    background-color: #7FA0FF;
+    color: black;
+}
+
+.textbox
+{
+	border-radius: 12px;
+	background-color: rgba(5,4,2,0.2);
+	width:850px;
+	height: 100%;
+	margin-top: 500px;
+	margin-left:auto;
+	margin-right:auto;
+	padding: 15px;
+}
+
+.textbox p
+{
+	opacity: 1;
+	margin: 5%;
+	font-size: 18px;
+	font-family: 'Arial';
+	font-weight: bold;
+	color: #000000;
 }
 
 .logo
 {
 	position: absolute;
 	top: 20px;
+	left: 500px;
 }
 
 .image1
 {
 	position: absolute;
-	width: 300px;
-	height: 300px;
-	top: 250px;
-	left: 100px;
-	border: 2px solid #021a40;
+	width: 645px;		
+	height: 200px;
+	top: 130px;
+	left: 350px;
+	border-radius: 12px;
+	border: 2px solid #000000;
 }
 
 .calendar
 {
 	position: absolute;
-	top: 585px;
-	left: 120px;
-	border: 1px solid #000000;
+	top: 885px;
+	left: 545px;
+	border: 2px solid #000000;
 }
 
 
