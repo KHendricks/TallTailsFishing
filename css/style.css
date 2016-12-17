@@ -1,153 +1,13 @@
 html
 {
-	background: #FFFFFF url("../../images/sunset.jpg") no-repeat top left scroll;
+	background: #e67300 url("../../images/sunset.jpg") no-repeat top left scroll;
 	background-size: cover;
 }
 
-#pictues
+.mainPictureLoc
 {
-	position:relative;
-}
-
-#buttons
-{
-	position: relative;
-	margin-top: 3%;
-	margin-bottom:20px;
-}
-
-#photoGallery
-{
-	position: relative;
-	margin-top: 100px;
-}
-
-.button1 
-{
-	background-color: #F3EFE0;
-	border: 2px solid #000000;
-	border-radius: 12px;
-	width: 110px;
-	height: 45px;
-	font-size: 16px;
-	font-family: 'Arial';
-	font-weight: bold;
-}
-
-.button1:hover 
-{
-	background-color: #F0BA11;
-	color: black;
-}
-
-.button2 
-{
-	background-color: #F3EFE0;
-	border: 2px solid #000000;
-	border-radius: 12px;
-	width: 110px;
-	height: 45px;
-	font-size: 16px;
-	font-family: 'Arial';
-	font-weight: bold;
-}
-
-.button2:hover
-{
-    background-color: #F0BA11;
-    color: black;
-}
-
-.button3 
-{
-	background-color: #F3EFE0;
-	border: 2px solid #000000;
-	border-radius: 12px;
-	width: 110px;
-	height: 45px;
-	font-size: 16px;
-	font-family: 'Arial';
-	font-weight: bold;
-}
-
-.button3:hover 
-{
-    background-color: #F0BA11;
-    color: black;
-}
-
-.button4 
-{
-	background-color: #F3EFE0;
-	border: 2px solid #000000;
-	border-radius: 12px;
-	width: 110px;
-	height: 45px;
-	font-size: 16px;
-	font-family: 'Arial';
-	font-weight: bold;
-}
-
-.button4:hover 
-{
-    background-color: #F0BA11;
-    color: black;
-}
-
-.button5
-{
-	background-color: #F3EFE0;
-	border: 2px solid #000000;
-	border-radius: 12px;
-	width: 110px;
-	height: 45px;
-	font-size: 16px;
-	font-family: 'Arial';
-	font-weight: bold;
-}
-
-.button5:hover 
-{
-    background-color: #F0BA11;
-    color: black;
-}
-
-.button6 
-{
-	background-color: #F3EFE0;
-	border: 2px solid #000000;
-	border-radius: 12px;
-	width: 110px;
-	height: 45px;
-	font-size: 16px;
-	font-family: 'Arial';
-	font-weight: bold;
-}
-
-.button6:hover 
-{
-    background-color: #F0BA11;
-    color: black;
-}
-
-.textbox
-{
-	position: relative;
-	border-radius: 12px;
-	background-color: rgba(5,4,2,0.5);
-	width:850px;
-	height: 300px;
-	padding: 15px;
-}
-
-.textbox p
-{
-	opacity: 1;
-	margin: 2%;
-	font-size: 18px;
-	color: #FFFFFF;
-	font-family: 'Arial';
-	font-weight: bold;
+	text-align: center;
+	margin-top: 5px;
 }
 
 .image1
@@ -167,9 +27,34 @@ html
 	margin-bottom: 100px;
 }
 
-#calendarFrame
+.buttonsLoc
 {
+	text-align: center;
+	margin-top: 20px;
+}
+
+.button01
+{
+	background-color: #F3EFE0;
+	border: 2px solid #000000;
+	border-radius: 12px;
+	width: 110px;
+	height: 45px;
+	font-size: 16px;
+	font-family: 'Arial';
+	font-weight: bold;
+}
+
+.button01:hover 
+{
+	background-color: #F0BA11;
+	color: black;
+}
+
+.calendarFrame
+{
+	text-align: center;
 	position: relative;
-	margin-top: 30px;
+	margin-top: 200px;
 }
 
