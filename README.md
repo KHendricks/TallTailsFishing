@@ -1,3 +1,5 @@
 # TallTailsFishing
+URL: talltailsfishingcharter.com
 
-Repository for talltailsfishingcharter.com
+Notes:
+  The color scheme and layout was customized at the request of the client.
