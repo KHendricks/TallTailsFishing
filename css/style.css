@@ -2,18 +2,25 @@ body.home
 {
 	background: #2E2E2E url("../../images/Backgrounds/oceanNight2.jpg") no-repeat top left fixed;
 	background-size: cover;
+	min-width: 90%;
+	min-height: 100%;
+
 }
 
 body.tyler
 {
-	background: #2E2E2E url("../../images/Backgrounds/sunset.jpg") no-repeat top left fixed;
+	background: #2E2E2E url("../../images/Backgrounds/sunset.jpg") no-repeat top left scroll;
 	background-size: cover;
+	min-width: 90%;
+	min-height: 100%;
 }
 
 body.photos
 {
 	background: #2E2E2E url("../../images/Backgrounds/ocean.jpg") no-repeat top left fixed;
 	background-size: cover;
+	min-width: 90%;
+	min-height: 100%;
 }
 
 #container
