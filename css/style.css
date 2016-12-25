@@ -1,6 +1,6 @@
 body.home
 {
-	background: #FFFFFF url("../../images/Backgrounds/oceanNight2.jpg") no-repeat center center fixed; 
+	background: #FFFFFF url("../images/Backgrounds/oceanNight2.jpg") no-repeat center center fixed; 
 	background-size: cover;  
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -10,7 +10,7 @@ body.home
 
 body.tyler
 {
-	background: #2E2E2E url("../../images/Backgrounds/sunset3.jpg") no-repeat center center fixed; 
+	background: #2E2E2E url("../images/Backgrounds/sunset3.jpg") no-repeat center center fixed; 
 	background-size: cover;  
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -19,7 +19,7 @@ body.tyler
 
 body.photos
 {
-	background: #2E2E2E url("../../images/Backgrounds/ocean.jpg") no-repeat center center fixed; 
+	background: #2E2E2E url("../images/Backgrounds/ocean.jpg") no-repeat center center fixed; 
 	background-size: cover;  
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -56,8 +56,17 @@ body.photos
 	border-radius: 20px;
 	margin-right: 20px;
 	float: right;
-	height: 85%;
-	width: 40%;
+	width: 50%;
+	margin-top: 10px;
+}
+
+.boatPhoto02
+{
+	border: 2px solid #000000;
+	border-radius: 20px;
+	margin-right: 20px;
+	float: right;
+	width: 50%;
 }
 
 .button01
@@ -245,7 +254,7 @@ body.photos
 	border: 2px solid black;
 	border-radius: 3px;
 	width: 800px;
-	height: 700px;
+	height: 1600px;
 	background-color: rgba(46, 46, 46, 0.50);
 }
 
