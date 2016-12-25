@@ -1,6 +1,6 @@
 body.home
 {
-	background: #FFFFFF url("../../images/Backgrounds/oceanNight2R.jpg") no-repeat center center fixed; 
+	background: #FFFFFF url("../../images/Backgrounds/oceanNight2.jpg") no-repeat center center fixed; 
 	background-size: cover;  
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -10,7 +10,7 @@ body.home
 
 body.tyler
 {
-	background: #2E2E2E url("../../images/Backgrounds/sunset2R.jpg") no-repeat center center fixed; 
+	background: #2E2E2E url("../../images/Backgrounds/sunset3.jpg") no-repeat center center fixed; 
 	background-size: cover;  
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -19,7 +19,7 @@ body.tyler
 
 body.photos
 {
-	background: #2E2E2E url("../../images/Backgrounds/oceanR.jpg") no-repeat center center fixed; 
+	background: #2E2E2E url("../../images/Backgrounds/ocean.jpg") no-repeat center center fixed; 
 	background-size: cover;  
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -48,6 +48,16 @@ body.photos
 	width: 1000px;
 	height: 1200px;
 	margin: 0 auto;
+}
+
+.boatPhoto
+{
+	border: 2px solid #000000;
+	border-radius: 20px;
+	margin-right: 20px;
+	float: right;
+	height: 85%;
+	width: 40%;
 }
 
 .button01
@@ -166,6 +176,20 @@ body.photos
 	padding-top: 100px;
 }
 
+.frontPic
+{
+	border-radius: 8px;
+	border: 2px solid #000000;
+	margin-top: 20px;
+	width: 37%;
+	height: 40%;
+}
+
+.frontPicLoc
+{
+	text-align: center;
+}
+
 .homeText
 {
 	font-size: 18px;
@@ -175,7 +199,7 @@ body.photos
 	font-weight: bold;
 	text-align: center;
 
-	padding-top: 200px;
+	padding-top: 25px;
 }
 
 .logo
@@ -214,7 +238,28 @@ body.photos
 	background-color: rgba(46, 46, 46, 0.50);
 }
 
+.textBoxBoat
+{
+	margin: 0 auto;
+	margin-top: 50px;
+	border: 2px solid black;
+	border-radius: 3px;
+	width: 800px;
+	height: 700px;
+	background-color: rgba(46, 46, 46, 0.50);
+}
+
 .textInBox
+{
+	padding-left: 8px;
+	font-size: 20px;
+	color: white;
+	text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+	font-family: 'Helvetica';
+	text-align: center;
+}
+
+.textInBox02
 {
 	padding-left: 8px;
 	font-size: 20px;
