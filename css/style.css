@@ -50,6 +50,14 @@ body.photos
 	margin: 0 auto;
 }
 
+#container03
+{
+	position: relative;
+	width: 1000px;
+	height: 900px;
+	margin: 0 auto;
+}
+
 .boatPhoto
 {
 	border: 2px solid #000000;
@@ -190,8 +198,7 @@ body.photos
 	border-radius: 8px;
 	border: 2px solid #000000;
 	margin-top: 20px;
-	width: 37%;
-	height: 40%;
+	width: 32%;
 }
 
 .frontPicLoc
